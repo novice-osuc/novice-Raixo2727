@@ -4,6 +4,10 @@
 
 Este sera tu repositorio para desarrollar tus misiones semanales, despues de cada taller se te asignara una nueva misión, la cual deberás desarrollar y subir a este repositorio, para que los mentores puedan revisar tu progreso y darte feedback.
 
+## Misiones
+
+- [Misión 1: Las bases (HTML Semántico)](./Mision1.md)
+
 ## Requisitos
 
 - Tener git instalado en tu computadora. Sigue esta [guía](./GIT.md).
