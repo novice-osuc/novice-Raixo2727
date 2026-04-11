@@ -1,0 +1,37 @@
+## Sigue las instrucciones a continuación para enviar tu PR.
+
+Es importante que **NO** hagas merge de tu PR tu mismo hasta que un mentor lo revise y te lo indique. El nombre de la PR debe seguir el formato: `Misión X - Breve descripción`, por ejemplo: `Misión 1 - HTML semántico`.
+
+## Resumen de la misión
+
+<!-- Explica en 2-5 líneas qué misión estás entregando y qué resolviste. -->
+
+### Misión
+
+<!-- Ejemplo: Misión 1 - HTML semántico -->
+
+### ¿Qué implementaste?
+
+<!-- Lista breve de cambios realizados. -->
+
+
+
+## Checklist de entrega
+
+Marca con `x` lo que ya cumpliste:
+
+- [ ] Mi rama sigue el formato de la misión (ejemplo: `mision-x`).
+- [ ] Hice commit(s) con mensajes claros.
+- [ ] Subí mis cambios a GitHub (`git push origin mi-rama`).
+- [ ] Mi PR apunta desde mi rama hacia `main`.
+- [ ] Revisé mi código antes de abrir el PR.
+- [ ] Probé que el resultado funciona correctamente.
+- [ ] No hice merge por mi cuenta.
+
+
+## Uso de IA (obligatorio si aplica)
+
+Según las reglas del repositorio, el uso de IA para resolver misiones está restringido.
+
+- [ ] No usé IA para resolver la misión.
+- [ ] Sí usé IA y agregué/actualicé `IA.md` con los chats correspondientes.
