@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, roboto;
+    background-color: rgb(227, 251, 255);
+}
+
+.header-title {
+    text-align: center;
+}
+
+.introduction-container {
+    width: 40%;
+
+    margin: 0 auto;
+
+    padding: 8px;
+    
+}
+
+.border-style {
+    border: 2px solid black;
+    margin: 8px;
+}
+
+.boards {
+    background-color: rgb(141, 228, 255);
+    padding-top: 10px; padding-bottom: 10px;
+}
+
+.links {
+    display: inline-block;
+    padding: 2px;
+}
